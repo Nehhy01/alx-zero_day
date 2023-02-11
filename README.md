@@ -1,2 +1,2 @@
 # alx-zero_day
-Folder to keep my codes for the git assignment
+I'm now a ALX Student, this is my first repository as a full-stack engineer
